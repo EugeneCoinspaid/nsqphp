@@ -15,3 +15,4 @@ bin/nsqadmin
 bin/nsqd
 bin/nsqlookupd
 bin/to_nsq
+.idea/

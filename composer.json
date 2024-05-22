@@ -1,15 +1,7 @@
 {
-    "name": "nsq/nsq",
+    "name": "eugenecoinspaid/nsqphp_new",
     "type": "library",
-    "description": "NSQ Client for PHP",
-    "homepage": "https://github.com/nsqphp/nsqphp",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Konstantin Grachev",
-            "email": "me@grachevko.ru"
-        }
-    ],
     "require": {
         "php": "^8.2",
         "ext-json": "*",
