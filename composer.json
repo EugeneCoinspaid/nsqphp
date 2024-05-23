@@ -6,7 +6,7 @@
         "php": "^8.2",
         "ext-json": "*",
         "laravel/framework": "^11.0",
-        "amphp/http-client": "^4.6",
+        "amphp/http-client": "^5.1",
         "amphp/socket": "^2.3",
         "composer/semver": "^3.2",
         "phpinnacle/buffer": "^1.2",
